@@ -1,0 +1,270 @@
+bash
+bzip2 1337.txt
+bzip2 1337.sh
+bzip2 /etc/resolv.conf
+bzip2 /proc/meminfo
+busybox ls
+busybox pwd
+bzcat /etc/hosts.allow.bz2
+bzcat /etc/resolv.conf.bz2
+bzcat /etc/dbus-1/system.d/bluetooth.conf
+bzcat /etc/resolv.conf
+bzcmp /etc/resolv.conf.bz2 1337.txt.bz2
+bzcmp 0x1337.txt.bz2 /proc/meminfo.bz2
+bzdiff 0x1337.txt.bz2 1337.txt.bz2
+bzdiff 1337.txt.bz2 1337.txt.bz2
+bzgrep ps 1337.txt.bz2
+bzgrep ps 0x1337.txt.bz2
+bzexe -d 1337.txt.bz2
+bzexe -d 0x1337.txt.bz2
+bzip2 -d 1337.txt.bz2 
+bzip2 -d 0x1337.txt.bz2 
+bzip2recover gz2502
+bzip2recover gz2516
+bzless 1337.txt
+bzless /etc/resolv.conf
+bzless 0x1337.txt
+bzmore 1337.txt
+bzmore 0x1337.txt
+cat /etc/hosts.allow
+cat /etc/hosts.deny
+cat /proc/meminfo
+cat /etc/resolv.conf
+cat 1337.txt
+cat 0x1337.txt
+cat /etc/dbus-1/system.d/bluetooth.conf
+cat .bash_history
+cut -d: -f1 /etc/passwd
+chmod +x 1337.sh
+chmod +s 1337.sh
+chmod -x 1337.sh
+chmod -s 1337.sh
+chown root 1337.sh
+chown root 0x1337.sh
+chown king-phisher 1337.sh
+chown king-phisher 0x1337.sh
+chown iodine 1337.sh
+chown iodine 0x1337.sh
+chvt 2
+chvt 3
+chvt 4
+cp /etc/hosts.allow ./
+cp /etc/passwd ./
+cp /etc/passwd ./~
+cp /etc/passwd ./root
+cp 0x1337.sh ./
+cp 0x1337.sh ./~
+cp 0x1337.sh ./root
+dash 1337.sh
+dash 0x1337.sh
+date
+date -s "3/14/1991 00:00:01"
+date -s "8/06/1945 00:00:01"
+fdisk -l
+df
+dir ./
+dir ../
+dir /etc
+dir /dev
+dmesg
+dnsdomainname -A
+domainname
+dumpkeys --funcs-only
+dumpkeys -n
+dumpkeys -f
+dumpkeys -l
+dumpkeys --keys-only
+echo "$(cat /etc/passwd)"
+echo "$(cat .bash_history)"
+echo "$(cat .bash_profile)"
+echo "1337"
+egrep "root" /etc/passwd
+egrep "iodine" /etc/passwd
+egrep "root" 1337.txt
+egrep "root" .bash_profile
+egrep "root" 0x1337.txt
+false
+fgconsole
+fgconsole -n
+fgrep "root" /etc/passwd
+fgrep "iodine" /etc/passwd
+fgrep "root" 1337.txt
+fgrep "\x68" /etc/hosts.allow
+fgrep "\x85" /proc/meminfo
+fgrep "root" 0x1337.txt 
+findmnt -A
+findmnt -a
+findmnt -b
+findmnt -C
+findmnt -c
+findmnt -D
+findmnt -d
+findmnt -e
+findmnt -F
+findmnt -f
+findmnt -i
+fuser -v -n tcp 80
+fuser -v -n tcp 8080
+fuser -v -n tcp 1234
+fuser -v -n tcp 21
+fuser -v -n tcp 0
+fusermount -v
+getfacl 1337.txt
+getfacl 0x1337.txt
+getfacl /etc/hosts.allow
+getfacl 1337.sh
+getfacl 0x1337.sh
+getfacl 1337.txt.bz2
+getfacl /proc/filesystems
+grep -R root ./
+grep -R root /etc
+grep -R root /dev
+grep -R randomstr /etc
+gzip 1337.txt
+gzip 0x1337.txt
+gzip /etc/passwd
+gzip /etc/.pwd.lock
+gzip /etc/grub.conf
+gzip /etc/hosts.allow
+gzip /etc/dbus-1/system.d/bluetooth.conf
+gzip /proc/filesystems
+hciconfig -a
+hostname
+ip link
+ip address	
+ip addr	
+ip addrlabel	
+ip neighbour
+ip neigh	
+ip route	
+ip rule	
+ip maddress
+ip maddr
+ip mroute	
+ip tunnel
+ip xfrm	
+journalctl
+kbd_mode
+kbd_mode -a
+kbd_mode -u
+kbd_mode -k
+kbd_mode -s
+kill 1301
+killall -KILL arp
+kmod list
+kmod static-nodes 
+less /etc/grub.conf
+less /proc/filesystems
+less /proc/meminfo
+less 1337.txt
+less 1337.sh
+less /etc/passwd
+lessecho 1337
+lessecho root
+lessecho random-str
+lessfile 
+lesskey -o ./file.txt input-file.txt
+ln -s /etc new-etc
+ln /etc/grub.conf
+ln -s ./ ../new-curr-dir
+ln ../1337.txt
+ln ../0x1337.txt
+ln /etc/passwd
+ln /proc/ioports
+ln -s -b /etc/passwd ./new-passwd
+ln ../.bash_history
+ln /etc/exports
+loginctl -a
+loginctl -l
+loginctl --no-pager
+loginctl -v
+ls /etc
+ls /dev
+ls /mnt
+ls /sys
+ls ./
+lsblk
+lsblk -f
+lsblk -l
+lsblk -m
+lsblk -n
+lsblk -i
+lsblk -p
+lsmod 
+mkdir 1337
+mkdir new-folder
+mknod /dev/ttyS11 c 1 116
+mknod /dev/ttyS21 c 4 11
+mktemp /tmp/ho.XXXXXXXXXXXX
+mktemp /tmp/root.XXXXXXXXXXXX
+mktemp /tmp/k.XXXXXXXXXXXX
+more /etc/passwd
+more /proc/filesystems
+more /var/log/wtmp
+more /var/log/messages
+more /proc/mounts 
+more ./1337.txt
+mount
+mount -l -t tmpfs
+mv 1337.txt.bz2.gz ../
+mv 1337.sh ../
+mv 0x1337.sh ../
+mv 0x1337.txt ../
+nano /etc/aliases
+nano /dev/hdc
+nano /dev/hda
+nano /etc/exports
+nano /etc/grub.conf
+nano /var/log/wtmp
+nc -l 1337
+nc 127.0.0.1 1337
+nc -l 80
+nc 127.0.0.1 80
+nc -l 21
+nc -l 3059 > outfile.out
+nc 127.0.0.1 3059 < send-me.in
+nc.traditional
+netstat -a 
+netstat -nat | awk '{print $6}' | sort | uniq -c | sort -n
+netstat -nat |grep {127.0.0.1} | awk '{print $6}' | sort | uniq -c | sort -n
+netstat -n 
+networkctl -a
+networkctl --no-legend
+networkctl --no-pager
+networkctl status --no-pager
+networkctl lldp --no-pager
+networkctl label --no-pager
+pidof cron
+pidof bash
+pidof /usr/lib/tracker/tracker-miner-fs
+pidof /usr/lib/gvfs/gvfs-afc-volume-monitor
+pidof /usr/lib/gnome-settings-daemon/gsd-keyboard
+ping google.com
+ping virustotal.com
+ping thehackernews.com
+ping4 google.com
+ping4 virustotal.com
+ping4 thehackernews.com
+ps
+ps -a 
+ps -x
+ps -au 
+ps -aux
+pwd /etc
+pwd /dev 
+pwd /mnt
+pwd ./
+rbash
+readlink new-etc
+readlink passwd
+rm /proc/meminfo.bz2
+rm 1337.txt
+rm /etc/dbus-1/system.d/bluetooth.conf.bz2
+rmdir ./1337-dir
+rnano /etc/.pwd.lock
+rnano /etc/hosts.allow
+rnano /etc/dbus-1/system.d/bluetooth.conf
+rnano /proc/filesystems
+stty -a
+stty -a -F /dev/tty1
+stty cbreak -echo
