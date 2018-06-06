@@ -1,10 +1,4 @@
-## -*- coding: utf-8 -*-
-##
-##  Christoffer Brodd-Reijer - 2014-07-20 - ROPgadget tool
-## 
-##  http://twitter.com/ephracis
-##  http://shell-storm.org/project/ROPgadget/
-## 
+
 
 import sys
 

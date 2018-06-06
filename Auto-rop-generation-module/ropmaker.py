@@ -1,10 +1,3 @@
-## -*- coding: utf-8 -*-
-##
-##  Jonathan Salwan - 2014-05-13
-## 
-##  http://shell-storm.org
-##  http://twitter.com/JonathanSalwan
-## 
 
 from capstone           import *
 from ropgadget.ropchain.arch.ropmakerx86   import *

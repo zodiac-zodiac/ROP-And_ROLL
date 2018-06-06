@@ -1,10 +1,3 @@
-## -*- coding: utf-8 -*-
-##
-##  Jonathan Salwan - 2014-05-12
-## 
-##  http://shell-storm.org
-##  http://twitter.com/JonathanSalwan
-## 
 
 from capstone import *
 

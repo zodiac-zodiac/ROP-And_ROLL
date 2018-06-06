@@ -1,10 +1,3 @@
-## -*- coding: utf-8 -*-
-##
-##  Jonathan Salwan - 2014-05-12 - ROPgadget tool
-## 
-##  http://twitter.com/JonathanSalwan
-##  http://shell-storm.org/project/ROPgadget/
-## 
 
 from ropgadget.loaders.elf       import *
 from ropgadget.loaders.pe        import *
